@@ -1,5 +1,3 @@
-package commondMode;
-
 /**
  * Created by pengjianzhou on 2017/7/20.
  */
