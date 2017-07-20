@@ -1,13 +1,3 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 *.iml
-scf3-farm-common/target
-scf3-farm-constants/target
-scf3-farm-dao/target
-scf3-farm-domain/target
-scf3-farm-export/target
-scf3-farm-manager/target
-scf3-farm-rpc/target
-scf3-farm-service/target
-scf3-farm-web/target
-develop.properties
