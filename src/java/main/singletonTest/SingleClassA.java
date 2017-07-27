@@ -1,3 +1,5 @@
+package main.singletonTest;
+
 /**
  * Created by pengjianzhou on 2017/6/20.
  */
